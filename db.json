@@ -1,11 +1,6 @@
 {
   "posts": [
-    {
-    event_name: "Angular Today and Tomorrow",
-    author: "John Doe",
-    topic: "Front-End",
-    description: "Ubi est fortis tata? Est teres classis, cesaris."
-  },
+    
   {
     event_name: "How To Hack an Angular app?",
     author: "Jim Jones ",
